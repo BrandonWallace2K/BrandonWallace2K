@@ -73,7 +73,6 @@ Here are some ideas to get you started:
 </td><td valign="top" width="33%">
 
 
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -86,3 +85,10 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 <br/>  
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=BrandonWallace2K&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonWallace2K&hide_border=true&layout=compact" align="left" />  
+
+<br/>
