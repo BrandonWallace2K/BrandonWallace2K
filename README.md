@@ -1,4 +1,4 @@
-## Hi there 👋
+## "Just smile and wave, boys.. Smile and Wave - SKipper" 👋
 
 <!--
 **BrandonWallace2K/BrandonWallace2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
