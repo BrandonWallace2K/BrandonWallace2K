@@ -1,32 +1,23 @@
-## "Sometimes the questions are complicated, and the answers are simple." - D.S. 👋
+## <div align="center"> "Sometimes the questions are complicated, and the answers are simple." - D.S. 👋
 
-<!--
-**BrandonWallace2K/BrandonWallace2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center"> I'm a dynamic polymath and junior full-stack developer 👨‍💻 working in the Video Game Industry since 2023 🎮 </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
-### <div align="center">I'm a dynamic polymath and junior full-stack developer 👨‍💻 working in the Video Game Industry since 2023 🎮</div>  
+🕹️ I’m currently working as a Senior QA Tester @ a Take-Two Interactive subsidiary.
+
+👨🏽‍💻 My weekends are consumed with working on non-linear data structures, 2D Video Games, and updating my Github repositories!  
+
+🌱 I’m currently expanding my expertise in Unreal Game Sync, automated software testing w/ Selenium, and comprehensive functionality scripting, while taking all of 2024 to delve deeper into the video game development lifecycle, with a particular focus on testing milestones.
+
+❓ Ask me about anything related to OOP, C++, Java, and or French Bulldogs.
   
+🤔 I’m looking for help with reviewing any of my code and implementing optimized and innovative implementations of data structures and algorithms.
 
-- 🕹️ I’m currently working as a Senior QA Tester @ a Take-Two Interactive subsidiary.
-
-- 👨🏽‍💻 My weekends are consumed with working on non-linear data structures, 2D Video Games, and updating my Github repositories!  
-
-- 🌱 I’m currently expanding my expertise in Unreal Game Sync, automated software testing w/ Selenium, and comprehensive functionality scripting, while taking all of 2024 to delve deeper into the video game development lifecycle, with a particular focus on testing milestones.
-
-- ❓ Ask me about anything related to OOP, C++, Java, and or French Bulldogs.  
+📫 How to reach me: www.Linkedin.com/in/Dev-BrandonWallace 
   
-- ⚡ Fun fact: I have too many Frenchies! 🤍.  
+⚡ Fun fact: I have too many Frenchies! 🤍.  
   
 
 <br/> 
