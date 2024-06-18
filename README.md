@@ -7,11 +7,11 @@
 
 🕹️ I’m currently working as a Senior QA Tester @ a Take-Two Interactive subsidiary.
 
-👨🏽‍💻 My weekends are consumed with working on non-linear data structures, 2D Video Games, and updating my Github repositories!  
+👨🏽‍💻 My weekends are consumed with working on non-linear Data Structures, 2D Video Game Development, Code Challenges, and updating my Github repositories!  
 
 🌱 I’m currently expanding my expertise in Unreal Game Sync, automated software testing w/ Selenium, and comprehensive functionality scripting, while taking all of 2024 to delve deeper into the video game development lifecycle, with a particular focus on testing milestones.
 
-❓ Ask me about anything related to OOP, C++, Java, and or French Bulldogs.
+❓ Ask me about anything related to OOP, C++, Java, Quality Assurance Testing, Video Games, and or French Bulldogs.
   
 🤔 I’m looking for help with reviewing any of my code and implementing optimized and innovative implementations of data structures and algorithms.
 
